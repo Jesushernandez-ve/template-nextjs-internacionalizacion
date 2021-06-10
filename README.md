@@ -1,0 +1,2 @@
+# templatenextjswithprettiereslintinternationalization
+template nextjs with prettier eslint internationalization
